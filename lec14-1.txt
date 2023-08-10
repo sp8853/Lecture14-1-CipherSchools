@@ -1,0 +1,15 @@
+parameter passing and return types
+
+how to swap 2 variables using pointers 
+*(pointer_name)
+pre-referencing a pointer
+
+#include<iostream>
+using namespace std;
+int main()
+{
+int a,b
+a=3;
+b=4;
+swap()
+}
